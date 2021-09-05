@@ -1,3 +1,4 @@
+Source code for [This NPM Package](https://www.npmjs.com/package/@rbxts/lighting)
 
 <div align="center">
     <a href="">
