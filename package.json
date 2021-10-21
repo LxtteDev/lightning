@@ -9,7 +9,7 @@
   "license": "ISC",
   "types": "src/index.d.ts",
   "files": [
-    "src"
+    "out"
   ],
   "publishConfig": {
     "access": "public"
