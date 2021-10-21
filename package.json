@@ -2,14 +2,14 @@
   "name": "@rbxts/lighting",
   "version": "1.0.4",
   "description": "Typings for SamyBlue's lighting beams module",
-  "main": "out/init.lua",
+  "main": "src/init.lua",
   "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
   "types": "src/index.d.ts",
   "files": [
-    "out"
+    "src"
   ],
   "publishConfig": {
     "access": "public"
